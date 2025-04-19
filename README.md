@@ -36,7 +36,7 @@ git commit -m "your_name added my relevant files and data tables"
 
 This will update the local repository with all of your changes
 
-6. Synch your local changes with the remote repository
+6. Synch your local changes with the remote repository:
 git push origin main
 
 
