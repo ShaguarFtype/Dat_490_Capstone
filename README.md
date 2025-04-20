@@ -1,10 +1,10 @@
 # Dat_490_Capstone
 
 - Work Distribution:
-Bo Xun Shao: Pitcher Promotion Model and EDA
-Ian Wylie: Pitcher Performance Model and EDA
-Frank Stranathan: Batter promotion Model and EDA
-Ansh Shailesh Puthran: Batter Performance Model and EDA
+- Bo Xun Shao: Pitcher Promotion Model and EDA
+- Ian Wylie: Pitcher Performance Model and EDA
+- Frank Stranathan: Batter promotion Model and EDA
+- Ansh Shailesh Puthran: Batter Performance Model and EDA
 
 Repository Structure and Overview:
 - Data_Tables:
